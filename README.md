@@ -6,7 +6,7 @@ currently not there
 ## description;
 this is a memory reading cs:go bunnyhop with some anti vac detection things.
 
-#EXTRA FETURE!!!
+# EXTRA FEATURE!!!
 in the compiled version there is a VAC-bypass already build in!
 
 ## how to use;
