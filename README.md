@@ -2,7 +2,7 @@
 
 ## live programm;
 
-![gif](https://gfycat.com/ifr/MassiveTenderElephantseal.gif)
+https://gfycat.com/ifr/MassiveTenderElephantseal.gif
 
 ## description;
 this is a memory reading cs:go bunnyhop with some anti vac detection things.
